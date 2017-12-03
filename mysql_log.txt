@@ -21,3 +21,5 @@
 [05:07:08] [ERROR] CMySQLQuery::Execute[()] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1000' at line 1
 [05:12:32] [ERROR] mysql_format - destination size is too small
 [05:12:32] [ERROR] CMySQLQuery::Execute[()] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1000' at line 1
+[05:17:56] [ERROR] mysql_format - destination size is too small
+[05:17:56] [ERROR] CMySQLQuery::Execute[()] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1000' at line 1
