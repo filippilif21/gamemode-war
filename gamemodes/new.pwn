@@ -7,7 +7,17 @@
 
 #pragma dynamic 3996516
 
-/*ChangeLogs:
+/* 
+
+Credits:
+    - Edison ( sistem arme pe jos )
+    -
+    -
+
+
+
+
+ChangeLogs:
 
 V - 000.1
 - Facut sistemul de login si Register pe mysql.
@@ -25,7 +35,6 @@ V - 000.1B
 - Acum cei de la grupuri se spawneaza intr un loc anume
 - Comanda /stats adaugata
 
-test
 */
 
 enum
