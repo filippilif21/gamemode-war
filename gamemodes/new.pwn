@@ -23,9 +23,9 @@ V - 000.1B
 - Adaugat anti money hack
 - Acum cei de la FFA se spawneaza intr-un loc
 - Acum cei de la grupuri se spawneaza intr un loc anume
+- Comanda /stats adaugata
 
-
-
+test
 */
 
 enum
