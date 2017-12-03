@@ -1,0 +1,1 @@
+native AddServerBot(id, nick[]);  

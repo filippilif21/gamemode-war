@@ -1,0 +1,23 @@
+[04:03:46] [ERROR] CMySQLQuery::Execute[()] - (error #1054) Unknown column 'IP' in 'field list'
+[04:07:24] [ERROR] mysql_format - destination size is too small
+[04:07:24] [ERROR] CMySQLQuery::Execute[()] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5000' at line 1
+[04:12:45] [ERROR] mysql_format - destination size is too small
+[04:12:45] [ERROR] CMySQLQuery::Execute[()] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5000' at line 1
+[04:18:07] [ERROR] mysql_format - destination size is too small
+[04:18:07] [ERROR] CMySQLQuery::Execute[()] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5000' at line 1
+[04:38:59] [ERROR] mysql_format - destination size is too small
+[04:38:59] [ERROR] CMySQLQuery::Execute[()] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1000' at line 1
+[04:40:11] [ERROR] mysql_format - destination size is too small
+[04:40:11] [ERROR] CMySQLQuery::Execute[()] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1000' at line 1
+[04:45:35] [ERROR] mysql_format - destination size is too small
+[04:45:35] [ERROR] CMySQLQuery::Execute[()] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1000' at line 1
+[04:51:01] [ERROR] mysql_format - destination size is too small
+[04:51:01] [ERROR] CMySQLQuery::Execute[()] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1000' at line 1
+[04:56:24] [ERROR] mysql_format - destination size is too small
+[04:56:24] [ERROR] CMySQLQuery::Execute[()] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1000' at line 1
+[05:01:43] [ERROR] mysql_format - destination size is too small
+[05:01:43] [ERROR] CMySQLQuery::Execute[()] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1000' at line 1
+[05:07:08] [ERROR] mysql_format - destination size is too small
+[05:07:08] [ERROR] CMySQLQuery::Execute[()] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1000' at line 1
+[05:12:32] [ERROR] mysql_format - destination size is too small
+[05:12:32] [ERROR] CMySQLQuery::Execute[()] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1000' at line 1

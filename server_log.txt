@@ -1,0 +1,323 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:57:34] filterscripts = ""  (string)
+[03:57:34] 
+[03:57:34] Server Plugins
+[03:57:34] --------------
+[03:57:34]  Loading plugin: mysql
+[03:57:34]  >> plugin.mysql: R34 successfully loaded.
+[03:57:34]   Loaded.
+[03:57:34]  Loading plugin: Whirlpool
+[03:57:34]  
+[03:57:34]  ==================
+[03:57:34]  
+[03:57:34]   Whirlpool loaded
+[03:57:34]  
+[03:57:34]  ==================
+[03:57:34]  
+[03:57:34]   Loaded.
+[03:57:34]  Loading plugin: sscanf
+[03:57:34]   Failed.
+[03:57:34]  Loading plugin: streamer
+[03:57:34] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[03:57:34]   Loaded.
+[03:57:34]  Loaded 3 plugins.
+
+[03:57:34] 
+[03:57:34] Filterscripts
+[03:57:34] ---------------
+[03:57:34]   Loaded 0 filterscripts.
+
+[03:57:34] Conectarea la baza de date 'youtube' a fost executata cu succes !
+[03:57:34] [MySQL Turfs]: 0
+[03:57:34] Number of vehicle models: 0
+[03:59:41] --- Server Shutting Down.
+[03:59:41] plugin.mysql: Unloading plugin...
+[03:59:41] plugin.mysql: Plugin unloaded.
+[03:59:41]  
+[03:59:41]  ====================
+[03:59:41]  
+[03:59:41]   Whirlpool unloaded
+[03:59:41]  
+[03:59:41]  ====================
+[03:59:41]  
+[03:59:41] 
+
+*** Streamer Plugin v2.8.2 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:59:47] filterscripts = ""  (string)
+[03:59:47] 
+[03:59:47] Server Plugins
+[03:59:47] --------------
+[03:59:47]  Loading plugin: mysql
+[03:59:47]  >> plugin.mysql: R34 successfully loaded.
+[03:59:47]   Loaded.
+[03:59:47]  Loading plugin: Whirlpool
+[03:59:47]  
+[03:59:47]  ==================
+[03:59:47]  
+[03:59:47]   Whirlpool loaded
+[03:59:47]  
+[03:59:47]  ==================
+[03:59:47]  
+[03:59:47]   Loaded.
+[03:59:47]  Loading plugin: sscanf
+[03:59:47]   Failed.
+[03:59:47]  Loading plugin: streamer
+[03:59:47] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[03:59:47]   Loaded.
+[03:59:47]  Loaded 3 plugins.
+
+[03:59:47] I couldn't load any gamemode scripts. Please verify your server.cfg
+[03:59:47] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:00:10] filterscripts = ""  (string)
+[04:00:10] 
+[04:00:10] Server Plugins
+[04:00:10] --------------
+[04:00:10]  Loading plugin: mysql
+[04:00:10]  >> plugin.mysql: R34 successfully loaded.
+[04:00:10]   Loaded.
+[04:00:10]  Loading plugin: Whirlpool
+[04:00:10]  
+[04:00:10]  ==================
+[04:00:10]  
+[04:00:10]   Whirlpool loaded
+[04:00:10]  
+[04:00:10]  ==================
+[04:00:10]  
+[04:00:10]   Loaded.
+[04:00:10]  Loading plugin: sscanf
+[04:00:10]   Failed.
+[04:00:10]  Loading plugin: streamer
+[04:00:10] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[04:00:10]   Loaded.
+[04:00:10]  Loaded 3 plugins.
+
+[04:00:10] 
+[04:00:10] Filterscripts
+[04:00:10] ---------------
+[04:00:10]   Loaded 0 filterscripts.
+
+[04:00:10] Conectarea la baza de date 'youtube' a fost executata cu succes !
+[04:00:10] [MySQL Turfs]: 0
+[04:00:10] Number of vehicle models: 0
+[04:01:13] --- Server Shutting Down.
+[04:01:13] plugin.mysql: Unloading plugin...
+[04:01:13] plugin.mysql: Plugin unloaded.
+[04:01:13]  
+[04:01:13]  ====================
+[04:01:13]  
+[04:01:13]   Whirlpool unloaded
+[04:01:13]  
+[04:01:13]  ====================
+[04:01:13]  
+[04:01:13] 
+
+*** Streamer Plugin v2.8.2 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:01:17] filterscripts = ""  (string)
+[04:01:17] 
+[04:01:17] Server Plugins
+[04:01:17] --------------
+[04:01:17]  Loading plugin: mysql
+[04:01:17]  >> plugin.mysql: R34 successfully loaded.
+[04:01:17]   Loaded.
+[04:01:17]  Loading plugin: Whirlpool
+[04:01:17]  
+[04:01:17]  ==================
+[04:01:17]  
+[04:01:17]   Whirlpool loaded
+[04:01:17]  
+[04:01:17]  ==================
+[04:01:17]  
+[04:01:17]   Loaded.
+[04:01:17]  Loading plugin: sscanf
+[04:01:17]   Failed.
+[04:01:17]  Loading plugin: streamer
+[04:01:17] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[04:01:17]   Loaded.
+[04:01:17]  Loaded 3 plugins.
+
+[04:01:17] 
+[04:01:17] Filterscripts
+[04:01:17] ---------------
+[04:01:17]   Loaded 0 filterscripts.
+
+[04:01:17] Conectarea la baza de date 'youtube' a fost executata cu succes !
+[04:01:17] [MySQL Turfs]: 0
+[04:01:17] Number of vehicle models: 0
+[04:01:58] --- Server Shutting Down.
+[04:01:59] plugin.mysql: Unloading plugin...
+[04:01:59] plugin.mysql: Plugin unloaded.
+[04:01:59]  
+[04:01:59]  ====================
+[04:01:59]  
+[04:01:59]   Whirlpool unloaded
+[04:01:59]  
+[04:01:59]  ====================
+[04:01:59]  
+[04:01:59] 
+
+*** Streamer Plugin v2.8.2 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:02:03] filterscripts = ""  (string)
+[04:02:03] 
+[04:02:03] Server Plugins
+[04:02:03] --------------
+[04:02:03]  Loading plugin: mysql
+[04:02:03]  >> plugin.mysql: R34 successfully loaded.
+[04:02:03]   Loaded.
+[04:02:03]  Loading plugin: Whirlpool
+[04:02:03]  
+[04:02:03]  ==================
+[04:02:03]  
+[04:02:03]   Whirlpool loaded
+[04:02:03]  
+[04:02:03]  ==================
+[04:02:03]  
+[04:02:03]   Loaded.
+[04:02:03]  Loading plugin: sscanf
+[04:02:03]   Failed.
+[04:02:03]  Loading plugin: streamer
+[04:02:03] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[04:02:03]   Loaded.
+[04:02:03]  Loaded 3 plugins.
+
+[04:02:03] 
+[04:02:03] Filterscripts
+[04:02:03] ---------------
+[04:02:03]   Loaded 0 filterscripts.
+
+[04:02:03] Conectarea la baza de date 'youtube' a fost executata cu succes !
+[04:02:03] [MySQL Turfs]: 0
+[04:02:03] Number of vehicle models: 0
+[04:03:00] [connection] 192.168.1.142:49939 requests connection cookie.
+[04:03:01] [connection] incoming connection: 192.168.1.142:49939 id: 0
+[04:03:01] [join] Filip[] has joined the server (0:192.168.1.142)
+[04:21:16] --- Server Shutting Down.
+[04:21:16] [part] Filip[] has left the server (0:0)
+[04:21:16] plugin.mysql: Unloading plugin...
+[04:21:16] plugin.mysql: Plugin unloaded.
+[04:21:16]  
+[04:21:16]  ====================
+[04:21:16]  
+[04:21:16]   Whirlpool unloaded
+[04:21:16]  
+[04:21:16]  ====================
+[04:21:16]  
+[04:21:16] 
+
+*** Streamer Plugin v2.8.2 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:26:19] filterscripts = ""  (string)
+[04:26:19] 
+[04:26:19] Server Plugins
+[04:26:19] --------------
+[04:26:19]  Loading plugin: mysql
+[04:26:20]  >> plugin.mysql: R34 successfully loaded.
+[04:26:20]   Loaded.
+[04:26:20]  Loading plugin: Whirlpool
+[04:26:20]  
+[04:26:20]  ==================
+[04:26:20]  
+[04:26:20]   Whirlpool loaded
+[04:26:20]  
+[04:26:20]  ==================
+[04:26:20]  
+[04:26:20]   Loaded.
+[04:26:20]  Loading plugin: sscanf
+[04:26:20]   Failed.
+[04:26:20]  Loading plugin: streamer
+[04:26:20] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[04:26:20]   Loaded.
+[04:26:20]  Loaded 3 plugins.
+
+[04:26:20] 
+[04:26:20] Filterscripts
+[04:26:20] ---------------
+[04:26:20]   Loaded 0 filterscripts.
+
+[04:26:20] Conectarea la baza de date 'youtube' a fost executata cu succes !
+[04:26:20] [MySQL Turfs]: 0
+[04:26:20] Number of vehicle models: 0
+[04:27:05] [connection] 192.168.1.142:52114 requests connection cookie.
+[04:27:06] [connection] incoming connection: 192.168.1.142:52114 id: 0
+[04:27:06] [join] Filip[] has joined the server (0:192.168.1.142)
+Console input: gmx
+[04:29:18] Conectarea la baza de date 'youtube' a fost executata cu succes !
+[04:29:18] [MySQL Turfs]: 0
+[04:29:18] Number of vehicle models: 0
+Console input: gmx
+[04:34:47] Conectarea la baza de date 'youtube' a fost executata cu succes !
+[04:34:48] [MySQL Turfs]: 0
+[04:34:48] Number of vehicle models: 0
