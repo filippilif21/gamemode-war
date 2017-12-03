@@ -35,6 +35,9 @@ V - 000.1B
 - Acum cei de la grupuri se spawneaza intr un loc anume
 - Comanda /stats adaugata
 
+
+* Gamemode ul nu a fost testat
+
 */
 
 enum
